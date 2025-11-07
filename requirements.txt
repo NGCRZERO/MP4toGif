@@ -1,0 +1,9 @@
+# MP4转GIF高质量转换工具依赖
+# 注意：本项目主要依赖ffmpeg系统工具，Python本身不需要额外依赖
+
+# 如果需要安装ffmpeg，请使用以下命令：
+# Ubuntu/Debian: sudo apt-get install ffmpeg
+# macOS: brew install ffmpeg
+# Windows: 从 https://ffmpeg.org/download.html 下载
+
+# Python标准库已足够，无需额外依赖
